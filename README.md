@@ -6,8 +6,8 @@
 52612-Egidi, Kevin<br>52267-Bercini,	Genaro<br>52806-Piccoli, Nicolas<br>53038-Cravero, Tomas<br>52107-Rojtberg, Ramiro
 
 ### Repositorios
-* [FrontEnd](https://github.com/ReyKevin1/fitcenter-front)
-* [BackEnd](https://github.com/ReyKevin1/fitcenter-back)
+* [FrontEnd](https://github.com/GenaBercini/fitcenter-front)
+* [BackEnd](https://github.com/GenaBercini/fitcenter-back)
 
 ## Tema
 ### Descripción
@@ -24,9 +24,9 @@ Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Usuarios<br>2. CRUD Membresias<br>3. CRUD Productos<br>4. CRUD Ejercicios<br>5. CRUD Categorias<br>6. CRUD Sucursales<br>7. CRUD Turnos<br>|
-|CRUD dependiente|1. CRUD Rutinas {depende de} CRUD Profesores<br>2. CRUD OrdenesCompra {depende de} CRUD Productos y CRUD Cliente<br>3. CRUD Cupos {depende de} CRUD Sucursales y CRUD Turnos<br>|
-|Listado<br>+<br>detalle| 1. Listado de Productos filtrado por categorias, muestra nombre y precio => detalle CRUD Productos<br> 2. Listado de Turnos busqueda por fecha unica y filtrado por fechas disponibles, muestra fecha de Turnos, fecha inicio de Turnos, cantidad de Cupos disponibles  => detalle muestra datos completos del Turno y del Cliente|
-|CUU/Epic|1. Cargar Productos<br>2. Comprar un Producto<br>
+|CRUD dependiente|1. CRUD Rutinas {depende de} CRUD Profesores<br>2. CRUD Productos {depende de} CRUD Categoria<br>3. CRUD Cupos {depende de} CRUD Sucursales y CRUD Turnos<br>|
+|Listado<br>+<br>detalle| 1. Listado de Productos filtrado por precio, muestra nombre y precio => detalle CRUD Productos<br> 2. Listado de Turnos filtrado por fechas disponibles, muestra fecha de Turnos, fecha inicio de Turnos, cantidad de Cupos disponibles  => detalle muestra datos completos del Turno y del Cliente|
+|CUU/Epic|1. Registrar usuario<br>2. Comprar un Producto<br>
 
 Adicionales para Aprobación
 |Req|Detalle|
