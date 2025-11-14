@@ -9,6 +9,11 @@
 * [FrontEnd](https://github.com/GenaBercini/fitcenter-front)
 * [BackEnd](https://github.com/GenaBercini/fitcenter-back)
 
+### Casos de uso
+* [Registrar usuario](https://docs.google.com/document/d/1Q0m_allFPPNZRXgm3o3UOr3MrXl5z1gEbekbt45mymw/edit?usp=sharing)
+* [Realizar compra](https://docs.google.com/document/d/1c1VBuA4jPOqjgL-qgTaRBuqYFfghJdiW83xw6eLpG7A/edit?usp=sharing)
+  
+
 ## Tema
 ### Descripción
 FitCenter es un sistema web diseñado para gestionar de forma integral las actividades de un gimnasio, facilitando la interacción entre tres roles principales: clientes, profesores y administradores. La plataforma ofrece funcionalidades como la reserva de horarios de entrenamiento, la creación y asignación de rutinas personalizadas, la gestión de membresías y la venta de productos deportivos a través de una tienda online, que incluye una pasarela de pagos.
@@ -39,6 +44,6 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |Listados |1. Clases filtradas por Sucursales <br>2. Ordenes de compra ordenados por fecha y filtrado por estado|
-|CUU/Epic|1. Cancelar Turno<br>2. Registrar un Usuario|
+|CUU/Epic|1. Cancelar Turno<br>2. Crar actividad|
 |Otros|1. Envío de confirmacion del turno por email|
 
