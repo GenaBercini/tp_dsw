@@ -22,7 +22,8 @@ FitCenter es un sistema web diseñado para gestionar de forma integral las activ
 ![DER](https://raw.githubusercontent.com/KevinEgidi/tp-dsw/refs/heads/main/DER.png)
 
 ### Modelo actual
-![DER1]("C:\Users\nicop\OneDrive\Escritorio\baseDeDatos.png")
+![DER1](<img width="1242" height="831" alt="baseDeDatos" src="https://github.com/user-attachments/assets/f3670c9c-224b-4744-b8d3-aa67df3fd262" />
+)
 
 ## Alcance Funcional 
 
