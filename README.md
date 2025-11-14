@@ -18,8 +18,11 @@
 ### Descripción
 FitCenter es un sistema web diseñado para gestionar de forma integral las actividades de un gimnasio, facilitando la interacción entre tres roles principales: clientes, profesores y administradores. La plataforma ofrece funcionalidades como la reserva de horarios de entrenamiento, la creación y asignación de rutinas personalizadas, la gestión de membresías y la venta de productos deportivos a través de una tienda online, que incluye una pasarela de pagos.
 
-### Modelo
+### Modelo(sin actualizar)
 ![DER](https://raw.githubusercontent.com/KevinEgidi/tp-dsw/refs/heads/main/DER.png)
+
+### Modelo actual
+![DER1]("baseDeDatos.png")
 
 ## Alcance Funcional 
 
